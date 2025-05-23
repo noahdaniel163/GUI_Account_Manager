@@ -1,0 +1,4 @@
+2025-04-24 15:03:39,491 - INFO - Token đã hết hạn (quá hạn 76131 giây)
+2025-04-24 15:03:39,492 - INFO - Bắt đầu lấy token mới...
+2025-04-24 15:03:39,492 - ERROR - Lỗi không xác định khi lấy token: 'DatabaseHandler' object has no attribute 'get_api_credentials'
+2025-04-24 15:03:39,494 - ERROR - Lỗi trong quá trình gửi dữ liệu: Không lấy được token

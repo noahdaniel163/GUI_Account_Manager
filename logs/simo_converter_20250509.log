@@ -1,0 +1,34 @@
+2025-05-09 10:46:36,107 - WARNING - Số ID 20309851 có độ dài 8 không đúng chuẩn CMND (9 số) hoặc CCCD (12 số) của VN
+2025-05-09 10:49:19,159 - INFO - Số ID 20309851 đã được chuẩn hóa thành 020309851 (CMND 9 số)
+2025-05-09 10:49:26,021 - INFO - Số ID 83302006798 đã được chuẩn hóa thành 083302006798 (CCCD 12 số)
+2025-05-09 10:49:32,295 - INFO - Số ID 1167020663 đã được chuẩn hóa thành 001167020663 (CCCD 12 số)
+2025-05-09 10:49:37,628 - WARNING - Số điện thoại 02723570557 không có đầu số hợp lệ theo chuẩn VN
+2025-05-09 10:49:37,628 - WARNING - Số điện thoại đã được cắt ngắn thành 10 số: 0272357055
+2025-05-09 10:49:43,525 - INFO - Số ID 24634461 đã được chuẩn hóa thành 024634461 (CMND 9 số)
+2025-05-09 10:58:11,705 - INFO - Số ID 24634461 đã được chuẩn hóa thành 024634461 (CMND 9 số)
+2025-05-09 10:59:04,265 - INFO - Số ID 79092003819 đã được chuẩn hóa thành 079092003819 (CCCD 12 số)
+2025-05-09 10:59:04,265 - INFO - Số ID 80192012925 đã được chuẩn hóa thành 080192012925 (CCCD 12 số)
+2025-05-09 11:13:15,458 - INFO - Số ID 72300005130 đã được chuẩn hóa thành 072300005130 (CCCD 12 số)
+2025-05-09 11:13:15,458 - INFO - Số ID 83302006798 đã được chuẩn hóa thành 083302006798 (CCCD 12 số)
+2025-05-09 11:14:16,359 - WARNING - Số điện thoại 0 có độ dài không đúng chuẩn 10 số
+2025-05-09 11:14:16,360 - WARNING - Số điện thoại 0 có độ dài không đúng chuẩn 10 số
+2025-05-09 11:14:16,360 - WARNING - Số điện thoại 0 có độ dài không đúng chuẩn 10 số
+2025-05-09 11:14:58,996 - INFO - Số ID 83188016006 đã được chuẩn hóa thành 083188016006 (CCCD 12 số)
+2025-05-09 11:14:58,996 - INFO - Số ID 83188016006 đã được chuẩn hóa thành 083188016006 (CCCD 12 số)
+2025-05-09 11:15:57,272 - INFO - Số ID 83188016006 đã được chuẩn hóa thành 083188016006 (CCCD 12 số)
+2025-05-09 11:16:04,435 - INFO - Số ID 83188016006 đã được chuẩn hóa thành 083188016006 (CCCD 12 số)
+2025-05-09 11:16:04,436 - INFO - Số ID 83188016006 đã được chuẩn hóa thành 083188016006 (CCCD 12 số)
+2025-05-09 11:16:46,091 - INFO - Số ID 80091012348 đã được chuẩn hóa thành 080091012348 (CCCD 12 số)
+2025-05-09 11:34:36,184 - WARNING - Số điện thoại 01684060090 không có đầu số hợp lệ theo chuẩn VN
+2025-05-09 11:34:36,184 - WARNING - Số điện thoại đã được cắt ngắn thành 10 số: 0168406009
+2025-05-09 11:34:50,281 - INFO - Số ID 72300005130 đã được chuẩn hóa thành 072300005130 (CCCD 12 số)
+2025-05-09 11:34:56,229 - WARNING - Số điện thoại 02723570557 không có đầu số hợp lệ theo chuẩn VN
+2025-05-09 11:34:56,229 - WARNING - Số điện thoại đã được cắt ngắn thành 10 số: 0272357055
+2025-05-09 11:35:02,667 - WARNING - Số điện thoại 02723570557 không có đầu số hợp lệ theo chuẩn VN
+2025-05-09 11:35:02,667 - WARNING - Số điện thoại đã được cắt ngắn thành 10 số: 0272357055
+2025-05-09 11:35:10,713 - INFO - Số ID 46068000051 đã được chuẩn hóa thành 046068000051 (CCCD 12 số)
+2025-05-09 11:35:14,070 - INFO - Số ID 1167020663 đã được chuẩn hóa thành 001167020663 (CCCD 12 số)
+2025-05-09 11:35:21,325 - WARNING - Số điện thoại 0 có độ dài không đúng chuẩn 10 số
+2025-05-09 11:37:32,951 - WARNING - Số điện thoại 012006840145 không có đầu số hợp lệ theo chuẩn VN
+2025-05-09 11:37:32,951 - WARNING - Số điện thoại đã được cắt ngắn thành 10 số: 0120068401
+2025-05-09 11:47:10,606 - INFO - Số ID 24620611 đã được chuẩn hóa thành 024620611 (CMND 9 số)

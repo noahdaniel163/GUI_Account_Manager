@@ -1,0 +1,10 @@
+2025-04-11 19:23:34,830 - INFO - Đã chuyển đổi dữ liệu từ Template_TKTT_With_Data.xlsx sang JSON
+2025-04-11 19:24:15,705 - ERROR - Lỗi khi chuyển đổi Excel sang JSON: File is not a zip file
+2025-04-11 19:24:15,708 - ERROR - Lỗi khi chuyển đổi dữ liệu: File is not a zip file
+2025-04-11 19:24:30,869 - INFO - Đã chuyển đổi dữ liệu từ Template_TKTT_With_Data.xlsx sang JSON
+2025-04-11 19:24:37,140 - INFO - Gửi dữ liệu simo_001 thành công
+2025-04-11 19:25:38,700 - INFO - Đã chuyển đổi dữ liệu từ Template_TKTT_With_Data.xlsx sang JSON
+2025-04-11 19:25:51,319 - INFO - Gửi dữ liệu simo_004 thành công
+2025-04-11 19:26:16,464 - INFO - Đã chuyển đổi dữ liệu từ Template_TKTT_With_Data.xlsx sang JSON
+2025-04-11 19:26:21,304 - INFO - Gửi dữ liệu simo_002 thành công
+2025-04-11 21:15:00,449 - INFO - Đã chuyển đổi dữ liệu từ Template_TKTT_With_Data.xlsx sang JSON

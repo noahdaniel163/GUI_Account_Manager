@@ -1,0 +1,7 @@
+pywebio==1.7.1
+flask==2.0.1
+werkzeug==2.0.1
+pyodbc==4.0.32
+openpyxl==3.0.9
+pydantic==1.8.2
+requests==2.26.0

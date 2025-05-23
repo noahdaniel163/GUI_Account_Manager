@@ -1,0 +1,177 @@
+2025-04-24 14:52:21,965 - INFO - Đã tải dữ liệu từ file: E:/G/BNK/SIMO/Docs/Test Excel to JSON.xlsx
+2025-04-24 14:52:24,042 - INFO - Đã chuyển đổi dữ liệu từ E:/G/BNK/SIMO/Docs/Test Excel to JSON.xlsx sang JSON
+2025-04-24 14:52:31,998 - INFO - Đã chuyển đổi dữ liệu từ E:/G/BNK/SIMO/Docs/Test Excel to JSON.xlsx sang JSON
+2025-04-24 14:52:34,566 - INFO - Đã chuyển đổi dữ liệu từ E:/G/BNK/SIMO/Docs/Test Excel to JSON.xlsx sang JSON
+2025-04-24 14:52:38,228 - INFO - Đã chuyển đổi dữ liệu từ E:/G/BNK/SIMO/Docs/Test Excel to JSON.xlsx sang JSON
+2025-04-24 14:52:43,030 - INFO - Đã chuyển đổi dữ liệu từ E:/G/BNK/SIMO/Docs/Test Excel to JSON.xlsx sang JSON
+2025-04-24 14:52:45,253 - INFO - Đã chuyển đổi dữ liệu từ E:/G/BNK/SIMO/Docs/Test Excel to JSON.xlsx sang JSON
+2025-04-24 14:52:47,265 - INFO - Đã chuyển đổi dữ liệu từ E:/G/BNK/SIMO/Docs/Test Excel to JSON.xlsx sang JSON
+2025-04-24 14:52:50,067 - INFO - Kết quả tìm kiếm: Tìm thấy 592 bản ghi
+Điều kiện tìm kiếm:
+- Tháng cập nhật: 4/2025
+2025-04-24 14:52:50,820 - INFO - Đã đọc 592 bản ghi từ bảng TKTT
+2025-04-24 14:59:07,319 - INFO - Đã đọc 592 bản ghi từ bảng TKTT
+2025-04-24 14:59:12,999 - ERROR - Lỗi khi xuất dữ liệu: load_workbook() missing 1 required positional argument: 'filename'
+2025-04-24 15:00:59,687 - INFO - Đã đọc 592 bản ghi từ bảng TKTT
+2025-04-24 15:01:05,727 - INFO - Đã xuất dữ liệu TKTT ra file: E:/G/BNK/SIMO/Docs/TKTT_Data.xlsx
+2025-04-24 15:02:13,983 - ERROR - Lỗi khi kiểm tra dữ liệu: Vui lòng nhập dữ liệu JSON!
+2025-04-24 15:02:20,344 - INFO - Đã tải dữ liệu từ file JSON: C:/SIMO_API/payload_simo_001.json
+2025-04-24 15:02:21,375 - INFO - Đã kiểm tra dữ liệu JSON
+2025-04-24 15:03:25,472 - INFO - Đã tải dữ liệu từ file JSON: C:/SIMO_API/payload_simo_002.json
+2025-04-24 15:03:27,932 - INFO - Đã kiểm tra dữ liệu JSON
+2025-04-24 15:03:35,016 - INFO - Đã tải dữ liệu từ file JSON: C:/SIMO_API/payload_simo_004.json
+2025-04-24 15:03:37,108 - INFO - Đã kiểm tra dữ liệu JSON
+2025-04-24 15:03:39,495 - ERROR - Lỗi khi gửi dữ liệu: Attempt to use a closed connection.
+2025-04-24 15:05:42,318 - INFO - Đã đọc 592 bản ghi từ bảng TKTT
+2025-04-24 15:05:47,852 - INFO - Kết quả tìm kiếm: Tìm thấy 290 bản ghi
+Điều kiện tìm kiếm:
+- Loại KH: Ca Nhan
+- Tháng cập nhật: 4/2025
+2025-04-24 15:05:59,859 - INFO - Đã xuất 2 bản ghi ra file JSON: C:/SIMO_API/TKTT_Selected_Data.json
+2025-04-24 15:06:22,531 - INFO - Đã xuất 2 bản ghi ra file JSON: C:/SIMO_API/TKTT_Selected_Data.json
+2025-04-24 15:10:49,281 - INFO - Đã đọc 592 bản ghi từ bảng TKTT
+2025-04-24 15:10:54,341 - INFO - Kết quả tìm kiếm: Tìm thấy 290 bản ghi
+Điều kiện tìm kiếm:
+- Loại KH: Ca Nhan
+- Tháng cập nhật: 4/2025
+2025-04-24 15:11:03,735 - INFO - Đã xuất 1 bản ghi ra file JSON: C:/SIMO_API/TKTT_Selected_Data.json
+2025-04-24 15:11:30,017 - INFO - Đã xuất 3 bản ghi ra file JSON: C:/SIMO_API/TKTT_Selected_Data.json
+2025-04-24 15:18:43,930 - INFO - Đã đọc 592 bản ghi từ bảng TKTT
+2025-04-24 15:18:53,454 - INFO - Đã xuất 4 bản ghi ra file JSON: C:/SIMO_API/TKTT_Selected_Data.json
+2025-04-24 15:20:20,400 - INFO - Đã đọc 592 bản ghi từ bảng TKTT
+2025-04-24 15:20:24,560 - INFO - Kết quả tìm kiếm: Tìm thấy 592 bản ghi
+Điều kiện tìm kiếm:
+- Tháng cập nhật: 4/2025
+2025-04-24 15:20:27,959 - INFO - Kết quả tìm kiếm: Tìm thấy 290 bản ghi
+Điều kiện tìm kiếm:
+- Loại KH: Ca Nhan
+- Tháng cập nhật: 4/2025
+2025-04-24 15:20:40,688 - INFO - Đã xuất 2 bản ghi ra file JSON: C:/SIMO_API/TKTT_Selected_Data.json
+2025-04-24 15:28:14,442 - INFO - Kết quả tìm kiếm: Tìm thấy 592 bản ghi
+Điều kiện tìm kiếm:
+- Tháng cập nhật: 4/2025
+2025-04-24 15:28:16,342 - INFO - Đã đọc 592 bản ghi từ bảng TKTT
+2025-04-24 15:28:21,362 - INFO - Kết quả tìm kiếm: Tìm thấy 290 bản ghi
+Điều kiện tìm kiếm:
+- Loại KH: Ca Nhan
+- Tháng cập nhật: 4/2025
+2025-04-24 15:29:47,928 - INFO - Kết quả tìm kiếm: Tìm thấy 290 bản ghi
+Điều kiện tìm kiếm:
+- Loại KH: Ca Nhan
+- Tháng cập nhật: 4/2025
+2025-04-24 15:29:49,890 - INFO - Đã đọc 592 bản ghi từ bảng TKTT
+2025-04-24 15:29:56,469 - INFO - Đã xuất 4 bản ghi ra file JSON: C:/SIMO_API/TKTT_Selected_Data.json
+2025-04-24 15:31:06,924 - INFO - Đã đọc 592 bản ghi từ bảng TKTT
+2025-04-24 15:33:17,861 - INFO - Đã đọc 592 bản ghi từ bảng TKTT
+2025-04-24 15:33:18,628 - INFO - Đã đọc 592 bản ghi từ bảng TKTT
+2025-04-24 15:33:21,778 - INFO - Kết quả tìm kiếm: Tìm thấy 290 bản ghi
+Điều kiện tìm kiếm:
+- Loại KH: Ca Nhan
+- Tháng cập nhật: 4/2025
+2025-04-24 15:33:25,316 - INFO - Kết quả tìm kiếm: Tìm thấy 98 bản ghi
+Điều kiện tìm kiếm:
+- Tên KH: An
+- Loại KH: Ca Nhan
+- Tháng cập nhật: 4/2025
+2025-04-24 15:33:31,999 - INFO - Kết quả tìm kiếm: Tìm thấy 1 bản ghi
+Điều kiện tìm kiếm:
+- Tên KH: Ho nguyen
+- Loại KH: Ca Nhan
+- Tháng cập nhật: 4/2025
+2025-04-24 15:33:39,869 - WARNING - Giá trị không hợp lệ cho trường số LoaiKhachHang: Ca nhan
+2025-04-24 15:33:42,766 - INFO - Đã xuất 1 bản ghi ra file JSON: C:/SIMO_API/TKTT_Selected_Data.json
+2025-04-24 15:41:55,545 - INFO - Kết quả tìm kiếm: Tìm thấy 290 bản ghi
+Điều kiện tìm kiếm:
+- Loại KH: Ca Nhan
+- Tháng cập nhật: 4/2025
+2025-04-24 15:42:03,214 - INFO - Kết quả tìm kiếm: Tìm thấy 290 bản ghi
+Điều kiện tìm kiếm:
+- Loại KH: Ca Nhan
+- Tháng cập nhật: 4/2025
+2025-04-24 15:42:06,609 - INFO - Kết quả tìm kiếm: Tìm thấy 290 bản ghi
+Điều kiện tìm kiếm:
+- Loại KH: Ca Nhan
+- Tháng cập nhật: 4/2025
+2025-04-24 15:42:08,611 - INFO - Đã đọc 592 bản ghi từ bảng TKTT
+2025-04-24 15:42:10,221 - INFO - Kết quả tìm kiếm: Tìm thấy 290 bản ghi
+Điều kiện tìm kiếm:
+- Loại KH: Ca Nhan
+- Tháng cập nhật: 4/2025
+2025-04-24 15:42:23,234 - INFO - Đã xuất 2 bản ghi ra file JSON: C:/SIMO_API/TKTT_Selected_Data.json
+2025-04-24 15:48:01,462 - INFO - Kết quả tìm kiếm: Tìm thấy 290 bản ghi
+Điều kiện tìm kiếm:
+- Loại KH: Ca Nhan
+- Tháng cập nhật: 4/2025
+2025-04-24 15:48:03,171 - INFO - Đã đọc 592 bản ghi từ bảng TKTT
+2025-04-24 15:48:04,133 - INFO - Kết quả tìm kiếm: Tìm thấy 290 bản ghi
+Điều kiện tìm kiếm:
+- Loại KH: Ca Nhan
+- Tháng cập nhật: 4/2025
+2025-04-24 15:48:12,253 - ERROR - Lỗi khi xuất dữ liệu sang JSON: 'SimoGUI' object has no attribute 'validate_json_data'
+2025-04-24 15:48:23,402 - INFO - Kết quả tìm kiếm: Tìm thấy 290 bản ghi
+Điều kiện tìm kiếm:
+- Loại KH: Ca Nhan
+- Tháng cập nhật: 4/2025
+2025-04-24 15:48:29,860 - ERROR - Lỗi khi xuất dữ liệu sang JSON: 'SimoGUI' object has no attribute 'validate_json_data'
+2025-04-24 15:50:31,278 - INFO - Đã đọc 592 bản ghi từ bảng TKTT
+2025-04-24 15:50:37,735 - INFO - Đã xuất 2 bản ghi ra file JSON: C:/SIMO_API/TKTT_Selected_Data.json
+2025-04-24 15:50:38,190 - INFO - Xác thực dữ liệu sau khi xuất thành công
+2025-04-24 16:49:49,562 - ERROR - Lỗi khi tìm kiếm dữ liệu: ('22007', '[22007] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The conversion of a nvarchar data type to a datetime data type resulted in an out-of-range value. (242) (SQLExecDirectW)')
+2025-04-24 16:49:53,707 - INFO - Đã đọc 592 bản ghi từ bảng TKTT
+2025-04-24 16:49:55,925 - ERROR - Lỗi khi tìm kiếm dữ liệu: ('22007', '[22007] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The conversion of a nvarchar data type to a datetime data type resulted in an out-of-range value. (242) (SQLExecDirectW)')
+2025-04-24 16:50:02,598 - ERROR - Lỗi khi tìm kiếm dữ liệu: ('22007', '[22007] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The conversion of a nvarchar data type to a datetime data type resulted in an out-of-range value. (242) (SQLExecDirectW)')
+2025-04-24 16:50:22,067 - INFO - Kết quả tìm kiếm: Tìm thấy 0 bản ghi
+Điều kiện tìm kiếm:
+- Loại KH: Ca Nhan
+- Tháng cập nhật: 02/2025
+2025-04-24 16:50:27,865 - ERROR - Lỗi khi tìm kiếm dữ liệu: ('22007', '[22007] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The conversion of a nvarchar data type to a datetime data type resulted in an out-of-range value. (242) (SQLExecDirectW)')
+2025-04-24 16:50:31,091 - INFO - Đã đọc 592 bản ghi từ bảng TKTT
+2025-04-24 16:50:44,157 - INFO - Đã xuất 2 bản ghi ra file JSON: C:/SIMO_API/TKTT_Selected_Data.json
+2025-04-24 16:50:44,717 - INFO - Xác thực dữ liệu sau khi xuất thành công
+2025-04-24 16:51:04,985 - INFO - Đã xuất 10 bản ghi ra file JSON: C:/SIMO_API/TKTT_Selected_Data.json
+2025-04-24 16:51:05,816 - INFO - Xác thực dữ liệu sau khi xuất thành công
+2025-04-24 16:52:13,458 - INFO - Đã đọc 592 bản ghi từ bảng TKTT
+2025-04-24 16:52:15,008 - ERROR - Lỗi khi tìm kiếm dữ liệu: ('22007', '[22007] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Conversion failed when converting date and/or time from character string. (241) (SQLExecDirectW)')
+2025-04-24 16:52:17,826 - ERROR - Lỗi khi tìm kiếm dữ liệu: ('22007', '[22007] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Conversion failed when converting date and/or time from character string. (241) (SQLExecDirectW)')
+2025-04-24 16:52:23,324 - ERROR - Lỗi khi tìm kiếm dữ liệu: ('22007', '[22007] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Conversion failed when converting date and/or time from character string. (241) (SQLExecDirectW)')
+2025-04-24 16:52:33,673 - INFO - Đã xuất 27 bản ghi ra file JSON: C:/SIMO_API/TKTT_Selected_Data.json
+2025-04-24 16:52:35,002 - INFO - Xác thực dữ liệu sau khi xuất thành công
+2025-04-24 16:55:26,204 - INFO - Đã đọc 592 bản ghi từ bảng TKTT
+2025-04-24 16:55:26,960 - INFO - Đã đọc 592 bản ghi từ bảng TKTT
+2025-04-24 16:55:29,006 - ERROR - Lỗi khi tìm kiếm dữ liệu: ('42000', '[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Argument data type nvarchar is invalid for argument 1 of format function. (8116) (SQLExecDirectW); [42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Statement(s) could not be prepared. (8180)')
+2025-04-24 16:55:35,131 - ERROR - Lỗi khi tìm kiếm dữ liệu: ('42000', '[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Argument data type nvarchar is invalid for argument 1 of format function. (8116) (SQLExecDirectW); [42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Statement(s) could not be prepared. (8180)')
+2025-04-24 16:55:37,119 - ERROR - Lỗi khi tìm kiếm dữ liệu: ('42000', '[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Argument data type nvarchar is invalid for argument 1 of format function. (8116) (SQLExecDirectW); [42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Statement(s) could not be prepared. (8180)')
+2025-04-24 16:55:39,928 - ERROR - Lỗi khi tìm kiếm dữ liệu: ('42000', '[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Argument data type nvarchar is invalid for argument 1 of format function. (8116) (SQLExecDirectW); [42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Statement(s) could not be prepared. (8180)')
+2025-04-24 16:55:41,989 - ERROR - Lỗi khi tìm kiếm dữ liệu: ('42000', '[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Argument data type nvarchar is invalid for argument 1 of format function. (8116) (SQLExecDirectW); [42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Statement(s) could not be prepared. (8180)')
+2025-04-24 16:55:43,110 - INFO - Đã đọc 592 bản ghi từ bảng TKTT
+2025-04-24 16:55:52,547 - INFO - Đã xuất 2 bản ghi ra file JSON: C:/SIMO_API/TKTT_Selected_Data.json
+2025-04-24 16:55:53,508 - INFO - Xác thực dữ liệu sau khi xuất thành công
+2025-04-24 17:21:36,479 - ERROR - Lỗi khi tìm kiếm dữ liệu: ('42000', '[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Argument data type nvarchar is invalid for argument 1 of format function. (8116) (SQLExecDirectW); [42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Statement(s) could not be prepared. (8180)')
+2025-04-24 17:22:55,211 - INFO - Đã đọc 592 bản ghi từ bảng TKTT
+2025-04-24 17:22:56,920 - INFO - Kết quả tìm kiếm: Tìm thấy 0 bản ghi
+Điều kiện tìm kiếm:
+- Tháng cập nhật: 4/2025
+2025-04-24 17:23:01,501 - INFO - Kết quả tìm kiếm: Tìm thấy 0 bản ghi
+Điều kiện tìm kiếm:
+- Loại KH: Ca Nhan
+- Tháng cập nhật: 4/2025
+2025-04-24 17:23:08,693 - INFO - Kết quả tìm kiếm: Tìm thấy 0 bản ghi
+Điều kiện tìm kiếm:
+- Loại KH: Ca Nhan
+- Tháng cập nhật: 03/2025
+2025-04-24 17:23:12,038 - INFO - Kết quả tìm kiếm: Tìm thấy 0 bản ghi
+Điều kiện tìm kiếm:
+- Loại KH: To Chuc
+- Tháng cập nhật: 03/2025
+2025-04-24 17:23:15,419 - INFO - Kết quả tìm kiếm: Tìm thấy 0 bản ghi
+Điều kiện tìm kiếm:
+- Loại KH: To Chuc
+- Tháng cập nhật: 04/2025
+2025-04-24 17:25:14,354 - INFO - Đã đọc 592 bản ghi từ bảng TKTT
+2025-04-24 17:25:16,458 - ERROR - Lỗi khi tìm kiếm dữ liệu: type object 'datetime.datetime' has no attribute 'datetime'
+2025-04-24 17:25:21,398 - ERROR - Lỗi khi tìm kiếm dữ liệu: type object 'datetime.datetime' has no attribute 'datetime'
+2025-04-24 17:25:32,687 - ERROR - Lỗi khi tìm kiếm dữ liệu: type object 'datetime.datetime' has no attribute 'datetime'
+2025-04-24 17:27:28,117 - INFO - Đã đọc 592 bản ghi từ bảng TKTT
+2025-04-24 17:27:34,130 - ERROR - Lỗi khi tìm kiếm dữ liệu: ('22007', '[22007] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Conversion failed when converting date and/or time from character string. (241) (SQLExecDirectW)')
+2025-04-24 17:28:03,688 - INFO - Đã xuất 2 bản ghi ra file JSON: C:/SIMO_API/TKTT_Selected_Data.json
+2025-04-24 17:28:04,086 - INFO - Xác thực dữ liệu sau khi xuất thành công

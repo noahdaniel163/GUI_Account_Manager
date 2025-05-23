@@ -1,0 +1,13 @@
+2025-05-09 12:11:39,141 - INFO - Đã đọc 100 bản ghi từ bảng TKTT (Trang 1/3)
+2025-05-09 12:11:52,157 - ERROR - Lỗi khi cập nhật trạng thái nghi ngờ: DatabaseHandler.execute_query() got an unexpected keyword argument 'is_update'
+2025-05-09 12:12:19,510 - INFO - Đã đọc 100 bản ghi từ bảng TKTT (Trang 1/3)
+2025-05-09 12:14:04,560 - INFO - Đã đọc 100 bản ghi từ bảng TKTT (Trang 1/3)
+2025-05-09 12:14:11,124 - ERROR - Lỗi khi cập nhật trạng thái nghi ngờ: No results.  Previous SQL was not a query.
+2025-05-09 12:14:28,833 - ERROR - Lỗi khi cập nhật trạng thái nghi ngờ: No results.  Previous SQL was not a query.
+2025-05-09 12:28:44,349 - INFO - Đã đọc 100 bản ghi từ bảng TKTT (Trang 1/3)
+2025-05-09 12:28:49,401 - ERROR - Lỗi khi cập nhật trạng thái nghi ngờ: No results.  Previous SQL was not a query.
+2025-05-09 12:32:05,687 - INFO - Đã đọc 100 bản ghi từ bảng TKTT (Trang 1/3)
+2025-05-09 12:32:09,863 - ERROR - Lỗi khi cập nhật trạng thái nghi ngờ: No results.  Previous SQL was not a query.
+2025-05-09 12:33:09,678 - INFO - Đã đọc 100 bản ghi từ bảng TKTT (Trang 1/3)
+2025-05-09 12:34:18,114 - INFO - Đã đọc 100 bản ghi từ bảng TKTT (Trang 1/3)
+2025-05-09 16:18:41,917 - INFO - Đã đọc 100 bản ghi từ bảng TKTT (Trang 1/3)
